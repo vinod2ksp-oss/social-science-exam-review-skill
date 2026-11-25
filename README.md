@@ -1,6 +1,6 @@
-# Two-Pass Exam Review · 两轮递进式期末复习 Skill
+# 两轮递进式期末复习 Skill
 
-面向大学课程闭卷期末的 Agent Skill，适用于 Codex（CLI / IDE / 桌面端支持 Skill 的环境）和其他兼容 [Agent Skills](https://agentskills.io/specification) 格式的运行环境。
+面向社科类大学课程闭卷期末的 Agent Skill，适用于 Codex（CLI / IDE / 桌面端支持 Skill 的环境）和其他兼容 [Agent Skills](https://agentskills.io/specification) 格式的运行环境。
 
 本仓库默认直接在根目录提供 `.agents/skills/two-pass-exam-review/SKILL.md`，适合直接推送 GitHub，并在该仓库的 Codex 环境中调用。
 
