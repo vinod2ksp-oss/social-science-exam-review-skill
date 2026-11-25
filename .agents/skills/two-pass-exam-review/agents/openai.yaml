@@ -1,0 +1,4 @@
+interface:
+  display_name: "两轮递进式期末复习"
+  short_description: "严格依教师课件，逐节记忆验收＋逐章题型与跨章材料训练"
+  default_prompt: "请使用 two-pass-exam-review，先读取课程进度，再依据我提供的老师课件继续当前轮次。"
