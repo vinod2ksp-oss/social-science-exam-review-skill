@@ -1,0 +1,4 @@
+interface:
+  display_name: "零基础期末三天速成"
+  short_description: "三日冲刺：零基础建框架、按真题型训练、模考补弱"
+  default_prompt: "请用 three-day-zero-base-exam，根据我提供的老师课件、剩余时间和期末考试题型，立即制定三天冲刺计划，并从 Day 1 第一个重点模块开始互动复习。"
